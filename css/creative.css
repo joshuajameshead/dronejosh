@@ -286,7 +286,7 @@ header.masthead p {
 
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1px) {
   #quote-pic {
     display: none;
   }
