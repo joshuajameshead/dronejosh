@@ -234,7 +234,7 @@ header.masthead p {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(240, 95, 64, 0.9);
+  background: rgba(0, 0, 0, 0.6);
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
@@ -343,4 +343,16 @@ footer {
 
 #quote {
   padding: 4rem 0;
+}
+
+#paragraph {
+  background-color: rgba(0,0,0,0.3);
+}
+
+#paragraph p {
+  color: white;
+}
+
+#jumbojosh {
+  font-size: 4rem;
 }
